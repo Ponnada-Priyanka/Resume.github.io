@@ -1,0 +1,82 @@
+#header{
+ display: grid;
+ grid-template-columns: 2fr 5fr;
+ background: black;
+ color: white;
+}
+#image{
+ height: 150px;
+ width: 150px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ margin-left: 20px;
+}
+#name{
+ letter-spacing: 0.5em;
+ font-weight: bold;
+ margin-top: 20px;
+}
+#web{
+ letter-spacing: 0.2em;
+ margin-top: 30px;
+}
+#underline{
+ width: 540px;
+ height: 7px;
+ margin-top: 20px;
+ background: #CECED0;
+}
+#ach{
+	 background: #CDCDCF;
+ padding: 10px;
+}
+#wrapper{
+ padding: 0px;
+ margin-top: 50px;
+}
+#edu{
+	background: #CDCDCF;
+ padding: 10px;
+}
+svg{
+ height: 1em;
+ margin-left: 40px;
+}
+#left-mrgm{
+ margin-left: 40px;
+ font-weight: bold;
+}
+#edu1{
+	margin-right: 20px;
+ display: grid;
+ grid-template-columns: 1fr 2fr 4fr;
+}
+#head{
+ font-weight: bold;
+}
+#vig{
+	margin-top: 0px;
+}
+#contacts{
+ background: #CDCDCF;
+ padding: 10px;
+}
+.topM{
+ margin-top: 20px;
+ margin-bottom: 10px;
+
+}
+#space{
+ margin-left: 30px;
+
+}
+
+.skills{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+}
+
+#skills{
+ background: #CDCDCF;
+ padding: 10px;
+}
